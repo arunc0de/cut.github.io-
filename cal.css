@@ -1,0 +1,14 @@
+body{
+    margin:0.1 ;
+    padding:0;
+    text-align:center;
+    background-color: aquamarine;
+}
+h1{
+    font size:0.30px;
+}
+input{
+    width:40p;
+    height:80;
+    font-size:30px;
+}
